@@ -1,0 +1,5 @@
+Mrschwartz///
+Dostum scripti çalýþtýrmak için öncellikle sunucuna atýp panelden veya dosya izinleri bölümünden 777 yapmalýsýn
+kod : chmod 777 schwartzudp.pl
+Çalýþtýrmak için ./schwartzudp.pl ipadresi port
+Örnek: ./schwartzudp.pl 125.2.156.235 80
